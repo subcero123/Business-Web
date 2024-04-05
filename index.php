@@ -8,17 +8,16 @@
 		<?php get_header() ?>
 		<div class="l-contenedor-titulo-principal">
 			<div class="m-titulo">
-				Unlock Your 
-				<div class="m-titulo--bold">
-					Business
-				</div>
-				<div class="m-figure-hero">
-					<img src="<?php echo esc_url(get_template_directory_uri() . '/assets/images/figure-hero.png'); ?>" alt="Hero Image">
+				<div class="linea-1-desktop">
+					Unlock Your <b>Business</b>
+					<div class="m-figure-hero">
+						<img src="<?php echo esc_url(get_template_directory_uri() . '/assets/images/figure-hero.png'); ?>" alt="Hero Image">
+					</div>
 				</div>
 			</div>
 
 			<div class="m-titulo">
-				Potential with Xenon Bank
+				<b>Business</b>Potential with Xenon Bank
 			</div>
 		</div>
 		<div class="l-contenedor-columnas-principales">
@@ -46,6 +45,17 @@
 			</div>
 			<div class="columna-3">
 				<div class="m-lista">
+					<div class="line">
+						
+					</div>
+					<div class="line-top">
+						<div class="div-ocultar">
+
+						</div>
+						<div class="div-ocultar-2">
+
+						</div>
+					</div>
 					<ul>
 						<li>
 							<div class="contenedor-texto">
@@ -68,7 +78,9 @@
 					</ul>
 				</div>
 				<div class="m-usuarios-activos">
+					<div class="container-img">
 					<img src="<?php echo esc_url(get_template_directory_uri() . '/assets/images/figure-4-hero.png'); ?>" alt="Hero Image">
+					</div>
 				</div>
 
 			</div>
@@ -76,12 +88,27 @@
 	</div>
 	<div class="l-contenedor-secundario">
 			<div class="l-contenedor-titulo-financial">
-				<p>Financial</p>
-				<div class="flecha">
-					<svg fill="#000000" version="1.1" viewBox="144 144 512 512" xmlns="http://www.w3.org/2000/svg" stroke="#000000" stroke-width="50"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="5.12"></g><g id="SVGRepo_iconCarrier"> <path d="m588.93 200.57h-314.88v20.992h289.59l-339.02 338.92 14.906 14.906 338.91-339.02v289.58h20.992v-314.88c0-2.7852-1.1055-5.4531-3.0742-7.4219s-4.6367-3.0742-7.4219-3.0742z"></path> </g></svg>
-				</div>
-				<p>Freedom with</p>
-				<p class="xenon-text">Xenon</p>
+					<div class="desktop">
+						<p>Financial</p>
+						<div class="flecha">
+							<svg fill="#000000" version="1.1" viewBox="144 144 512 512" xmlns="http://www.w3.org/2000/svg" stroke="#000000" stroke-width="50"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="5.12"></g><g id="SVGRepo_iconCarrier"> <path d="m588.93 200.57h-314.88v20.992h289.59l-339.02 338.92 14.906 14.906 338.91-339.02v289.58h20.992v-314.88c0-2.7852-1.1055-5.4531-3.0742-7.4219s-4.6367-3.0742-7.4219-3.0742z"></path> </g></svg>
+						</div>
+						<p>Freedom with</p>
+						<p class="xenon-text">Xenon</p>
+					</div>
+					<div class="mobile">
+						<div class="renglon-1">
+							<p>Financial</p>
+							<div class="flecha">
+								<svg fill="#000000" version="1.1" viewBox="144 144 512 512" xmlns="http://www.w3.org/2000/svg" stroke="#000000" stroke-width="50"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="5.12"></g><g id="SVGRepo_iconCarrier"> <path d="m588.93 200.57h-314.88v20.992h289.59l-339.02 338.92 14.906 14.906 338.91-339.02v289.58h20.992v-314.88c0-2.7852-1.1055-5.4531-3.0742-7.4219s-4.6367-3.0742-7.4219-3.0742z"></path> </g></svg>
+							</div>
+							<p>Freedom</p>
+						</div>
+						<div class="renglon-2">
+							<p>with Xenon</p>
+						</div>
+
+					</div>
 			</div>
 			<div class="m-subtitulo-secundario">
 				<div class="subtitulo-parrafos">
