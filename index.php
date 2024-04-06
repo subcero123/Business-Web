@@ -105,7 +105,7 @@
 							<p>Freedom</p>
 						</div>
 						<div class="renglon-2">
-							<p>with Xenon</p>
+							<p>with <b>Xenon</b></p>
 						</div>
 
 					</div>
@@ -248,23 +248,21 @@
 						Quick Approval Process
 					</div>
 					<div class="subtitulo">
-						<p>Get pre-approved for your business loan in as little as 24</p>
-						<p>hours.</p>
+						<p>Get pre-approved for your business loan in as 
+							little as 24 hours.</p>
 					</div>
 
 				</div>
 				<div class="card card-2">
 					<div class="columna-1">
 						<div class="titulo">
-							<p>Flexible</p>
-							<p>Repayment</p>
-							<p>Options</p>
+							<p>Flexible Repayment Options</p>
 						</div>
 						<div class="subtitulo">
-							<p>Choose a repayment plan that</p>
-							<p>fits your budget, with flexible</p>
-							<p>and affordable options to</p>
-							<p>choose from.</p>
+							<p>Choose a repayment plan that fits your budget, with flexible
+							and affordable options to
+							choose from.
+							</p>
 
 						</div>
 					</div>
