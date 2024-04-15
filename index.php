@@ -4,7 +4,12 @@
  * Displays single posts
  */
 ?>
-	<div class="l-contenedor-principal">
+  <!-- Loader -->
+<div class="loader">
+	<div class="spinner"></div>
+</div>
+<div class="l-contenedor-pagina">
+<div class="l-contenedor-principal">
 		<?php get_header() ?>
 		<div class="l-contenedor-titulo-principal">
 			<div class="m-titulo">
@@ -273,5 +278,7 @@
 			</div>
 		</div>
 	</div>
+
+</div>
 
 <?php get_footer() ?>
